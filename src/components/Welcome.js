@@ -11,3 +11,5 @@ const Welcome = ({name}) => {
         </div>
     );
 };
+
+export default Welcome
